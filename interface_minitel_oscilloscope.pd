@@ -1,0 +1,10 @@
+#N canvas 546 146 450 300 10;
+#X obj 99 166 minitel_oscilloscope;
+#X obj 157 58 bng 30 250 50 0 empty empty fullscreen 30 7 0 20 -4034
+-1 -1;
+#X obj 216 103 bng 30 250 50 0 empty empty windowed 30 7 0 20 -257985
+-1 -1;
+#X floatatom 99 14 10 0 0 0 inpu_gain - -;
+#X connect 1 0 0 1;
+#X connect 2 0 0 2;
+#X connect 3 0 0 0;
