@@ -22,8 +22,13 @@ sdtv_mode=2
 Ajouter les lignes:
 
 sdtv_aspect=1
+
 sdtv_disable_colourburst=1
+
 overscan_left=45
+
 overscan_right=40
+
 overscan_top=0
+
 overscan_bottom=0
